@@ -102,16 +102,6 @@ Configuration, custom modules, and business process digitalization with **Odoo**
 
 ---
 
-## 🏆 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JihanGaluhPutri&bg_color=0D1117&color=C9D1D9&line=7C4DFF&point=00BCD4&area=true&area_color=7C4DFF&hide_border=true)](https://github-readme-activity-graph.vercel.app)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
