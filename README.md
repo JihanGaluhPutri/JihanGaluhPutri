@@ -102,6 +102,75 @@ Configuration, custom modules, and business process digitalization with **Odoo**
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JihanGaluhPutri&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/JihanGaluhPutri)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### [🎨 RumahDesain](https://github.com/JihanGaluhPutri/RumahDesain)
+Landing page jasa desain rumah — responsif & modern.
+
+`JavaScript` `HTML/CSS`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00BCD4?style=flat-square&logo=vercel&logoColor=white)](https://rumah-desain-kappa.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/RumahDesain)
+
+</td>
+<td width="50%">
+
+### [📝 WEB-NOTULENSI-BEM-FMIKOM](https://github.com/JihanGaluhPutri/WEB-NOTULENSI-BEM-FMIKOM)
+Web notulensi kegiatan BEM FMIKOM — dokumentasi & informasi organisasi.
+
+`TypeScript` `Next.js`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00BCD4?style=flat-square&logo=vercel&logoColor=white)](https://web-notulensi-bem-fmikom.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/WEB-NOTULENSI-BEM-FMIKOM)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🔍 Uas-SearchEngine-IR](https://github.com/JihanGaluhPutri/Uas-SearchEngine-IR)
+Search engine berita dengan Information Retrieval — proyek UAS.
+
+`JavaScript` `HTML/CSS`
+
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/Uas-SearchEngine-IR)
+
+</td>
+<td width="50%">
+
+### [🛒 kasir-toko](https://github.com/JihanGaluhPutri/kasir-toko)
+Aplikasi kasir toko sederhana — transaksi & manajemen penjualan.
+
+`Python`
+
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/kasir-toko)
+
+</td>
+</tr>
+</table>
+
+[![More repos](https://img.shields.io/badge/More_Projects-7C4DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri?tab=repositories)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
