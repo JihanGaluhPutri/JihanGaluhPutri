@@ -154,12 +154,12 @@ Search engine berita dengan Information Retrieval — proyek UAS.
 </td>
 <td width="50%">
 
-### [🛒 kasir-toko](https://github.com/JihanGaluhPutri/kasir-toko)
-Aplikasi kasir toko sederhana — transaksi & manajemen penjualan.
+### [📦 Aplikasi-Sales-Collect](https://github.com/JihanGaluhPutri/Aplikasi-Sales-Collect)
+Proyek besar semester 7 — aplikasi sales & collect.
 
-`Python`
+`TypeScript`
 
-[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/kasir-toko)
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/Aplikasi-Sales-Collect)
 
 </td>
 </tr>
