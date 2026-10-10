@@ -96,7 +96,7 @@ Configuration, custom modules, and business process digitalization with **Odoo**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=550&lines=Building+practical+projects+%C2%B7+Learning+Odoo+ERP+implementation" alt="Current focus" />
+**Building practical projects** · **Learning Odoo ERP implementation**
 
 </div>
 
