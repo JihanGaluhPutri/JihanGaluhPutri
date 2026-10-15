@@ -108,6 +108,19 @@ Configuration, custom modules, and business process digitalization with **Odoo**
 
 <table>
 <tr>
+<td colspan="2">
+
+### ⭐ [📦 STOKITA](https://github.com/JihanGaluhPutri/STOKITA)
+Sistem informasi manajemen stok & penjualan untuk UMKM — dashboard admin, POS kasir, monitoring stok, otorisasi role + RLS Supabase.
+
+`Next.js` `TypeScript` `Supabase`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00BCD4?style=flat-square&logo=vercel&logoColor=white)](https://stokita-taupe.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-7C4DFF?style=flat-square&logo=github&logoColor=white)](https://github.com/JihanGaluhPutri/STOKITA)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [🎨 RumahDesain](https://github.com/JihanGaluhPutri/RumahDesain)
